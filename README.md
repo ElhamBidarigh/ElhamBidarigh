@@ -20,7 +20,7 @@ OWASP Fundamentals · Application Security Best Practices
 
 - 📌 Background
   
-3 years as Senior Technical Support Engineer at LevelUp (contracted to StellarWG/Liquid Web) — deep code-level debugging of SaaS products
+3 years as Senior Technical Support Engineer at LevelUp (contracted to StellarWP/Liquid Web) — deep code-level debugging of SaaS products
 
 4+ years as Senior Web Developer at MOFU Technologies — 140+ web applications built
 
